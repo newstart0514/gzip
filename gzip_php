@@ -1,0 +1,2 @@
+/**开启gzip*/
+ob_start('ob_gzhandler');
